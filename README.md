@@ -16,10 +16,10 @@ This project utilizes YOLOv8 for logo detection on YouTube videos.
   - Applies logo detection on YouTube videos.
   - Results are displayed in a dataframe.
 
-- **yolo_model.py**
+- **yolov8_model.py**
   - A Python script to customize the code, such as modifying brands or model parameters.
 
-- **Example_detection.py**
+- **yolov8_example_detection.py**
   - A Python script with an example application of detection.
 
 - **yolov8_Clothes_detection.py**
