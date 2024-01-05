@@ -1,4 +1,4 @@
-# YOLOv8 Logo Detection
+# YOLOv8 Logo Detection 🚀
 
 This project utilizes YOLOv8 for logo detection on YouTube videos. Follow the steps below to effectively use the project.
 
