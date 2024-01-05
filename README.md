@@ -31,4 +31,4 @@ This project utilizes YOLOv8 for logo detection on YouTube videos. Follow the st
 ## Important Notes
 
 - A GPU is required to generate the base YOLOv8 model.
-- A Kaggle account with a username and API key is necessary.
+- A Kaggle account with a username and API key is necessary, it is free.
