@@ -1,6 +1,7 @@
 # YOLOv8 Logo Detection 🚀
 
-This project utilizes YOLOv8 for logo detection on YouTube videos. 
+This project uses YOLOv8 for clothing brand logo detection on YouTube videos. 🛍️👚👗👠
+
 ## Project Structure
 
 - **Yolov8/**
