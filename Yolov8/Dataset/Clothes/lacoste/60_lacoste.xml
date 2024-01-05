@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>lacoste</folder>
+	<filename>60.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>482</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lacoste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>56</ymin>
+			<xmax>472</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

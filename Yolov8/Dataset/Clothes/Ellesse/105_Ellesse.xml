@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Ellesse</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>498</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ellesse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>85</ymin>
+			<xmax>301</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

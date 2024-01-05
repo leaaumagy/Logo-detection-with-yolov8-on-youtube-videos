@@ -1,0 +1,52 @@
+names:
+  0: Adidas_SB
+  1: Celine
+  2: new_balance_1
+  3: new_balance_2
+  4: Bulgari
+  5: Carhartt
+  6: Everlast
+  7: zara
+  8: Guess
+  9: sergio_tacchini
+  10: louis_vuitton_1
+  11: lacoste
+  12: prada
+  13: Champion
+  14: Kenzo
+  15: levis
+  16: Gap
+  17: uniqlo
+  18: Ck_Calvin_Klein_1
+  19: oxxford
+  20: the_timberland
+  21: Giorgio
+  22: American_Eagle
+  23: Balenciaga
+  24: patagonia
+  25: Ck_Calvin_Klein_2
+  26: pepe_jeans
+  27: Casio
+  28: Columbia
+  29: Converse
+  30: versace
+  31: rolex
+  32: tom_ford
+  33: obey
+  34: tommy_hilfiger
+  35: Hugo_Boss
+  36: timberland
+  37: polo_ralph_lauren
+  38: Armani
+  39: louis_vuitton_2
+  40: the_north_face
+  41: Ellesse
+  42: chanel
+  43: Chloe
+  44: napapijri
+
+train: /content/Dataset/train/images
+val: /content/Dataset/valid/images
+test: /content/Dataset/test/images
+
+nc: 45

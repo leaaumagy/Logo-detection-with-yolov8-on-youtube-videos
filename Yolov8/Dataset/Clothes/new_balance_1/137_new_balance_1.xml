@@ -1,0 +1,25 @@
+<annotation>
+	<folder>new balance</folder>
+	<filename>137.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>new balance-1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>48</ymin>
+			<xmax>478</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

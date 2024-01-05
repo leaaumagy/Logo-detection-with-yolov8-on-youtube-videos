@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Everlast</folder>
+	<filename>16.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>396</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Everlast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>19</ymin>
+			<xmax>476</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

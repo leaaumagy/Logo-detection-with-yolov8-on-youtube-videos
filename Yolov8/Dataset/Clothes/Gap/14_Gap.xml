@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Gap</folder>
+	<filename>14.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>67</ymin>
+			<xmax>333</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

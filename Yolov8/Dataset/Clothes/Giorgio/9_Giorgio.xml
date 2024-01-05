@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Giorgio</folder>
+	<filename>9.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>377</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giorgio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>38</ymin>
+			<xmax>244</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>
