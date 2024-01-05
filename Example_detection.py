@@ -18,10 +18,10 @@ from IPython.display import clear_output
 from pytube import YouTube
 
 
-# Clear the output in Jupyter Notebook
+# Clear the output
 clear_output()
 
-# Votre commande YOLO
+# YOLO command
 !yolo checks
 
 # List of selected folders
