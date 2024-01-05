@@ -1,4 +1,4 @@
-## Logo detection on a list of sample videos
+## Logo detection 
 
 # Trained yolov8 model
 !git clone https://github.com/leaaumagy/Logo-detection-with-yolov8-on-youtube-videos.git
