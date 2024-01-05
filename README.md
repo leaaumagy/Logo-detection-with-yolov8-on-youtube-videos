@@ -26,6 +26,8 @@ This project utilizes YOLOv8 for logo detection on YouTube videos. Follow the st
 - **yolov8_Clothes_detection.py**
   - A Python script to apply detection on user-selected YouTube videos.
 
+## Model training results
+![Model training results](path/to/your/image.png)
 ## Important Notes
 
 - A GPU is required to generate the base YOLOv8 model.
