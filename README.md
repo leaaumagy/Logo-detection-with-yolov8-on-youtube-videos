@@ -28,6 +28,16 @@ This project uses YOLOv8 for clothing brand logo detection on YouTube videos. �
 
 ## Model training results
 ![Model training results](https://github.com/leaaumagy/Logo-detection-with-yolov8-on-youtube-videos/blob/main/Yolov8/runs/detect/train/results.png)
+
+→ **Precision:** The model correctly predicts nearly 92% of objects on average.
+
+→ **Recall:** The model detects on average nearly 92% of the real objects present in the images.
+
+→ **mAP50:** The model has an accuracy of 94.18% on average, which is excellent, on predictions with an IoU threshold of 0.5.
+
+→ **mAP50-95:** The model has an accuracy of 79.83% on average, which indicates good performance, on predictions with a wider interval of IoU thresholds (between 0.5 and 0.95).
+
+
 ## Important Notes
 
 - A GPU is required to generate the base YOLOv8 model.
