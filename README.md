@@ -38,6 +38,16 @@ This project uses YOLOv8 for clothing brand logo detection on YouTube videos. ðŸ
 â†’ **mAP50-95:** The model has an accuracy of 79.83% on average, which indicates good performance, on predictions with a wider interval of IoU thresholds (between 0.5 and 0.95).
 
 
+The results of model validation on the /yolov8_Clothes.ipynb file indicate performance on a set of validation images.
+
+- Total number of validation images: 648
+- Total number of object instances detected: 801
+- Performance of all classes:
+  - Accuracy: 97.2%
+  - Recall: 95.4%
+  - mAP50: 97.7%
+  - mAP50-95: 89.9%
+
 ## Important Notes
 
 - A GPU is required to generate the base YOLOv8 model.
