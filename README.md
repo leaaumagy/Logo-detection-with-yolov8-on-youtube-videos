@@ -1,7 +1,7 @@
 # YOLOv8 Logo Detection 🚀
 
 This project uses YOLOv8 for clothing brand logo detection on YouTube videos. 🛍️👚👗👠
-![Image detection](https://github.com/leaaumagy/Logo-detection-with-yolov8-on-youtube-videos/blob/main/Yolov8/runs/detect/train/val_batch0_pred.jpg)
+![Image detection](https://github.com/leaaumagy/Logo-detection-with-yolov8-on-youtube-videos/blob/main/Yolov8/runs/detect/train/val_batch0_pred.jpg){width=300px}
 
 ## Project Structure
 
