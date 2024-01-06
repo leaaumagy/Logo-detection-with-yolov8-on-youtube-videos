@@ -38,7 +38,7 @@ The results of model validation on the `/yolov8_Clothes.ipynb` file indicate per
 - Total number of validation images: 648
 - Total number of object instances detected: 801
 - Performance of all classes:
-  - Accuracy: 97.2%
+  - Precision: 97.2%
   - Recall: 95.4%
   - mAP50: 97.7%
   - mAP50-95: 89.9%
