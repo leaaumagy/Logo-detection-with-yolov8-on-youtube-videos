@@ -4,27 +4,21 @@ This project uses YOLOv8 for clothing brand logo detection on YouTube videos. ðŸ
 
 ## Project Structure
 
-- **Yolov8/**
-  - **Dataset/**
-    - Contains training data, split into train, test, and valid folders.
+- **`Yolov8/`**
+  - **`Dataset/`**
+    - Contains training data, split into `/train`, `/test`, and `/valid` folders.
     - An associated YAML file for the images.
-  - **runs/**
+  - **`runs/`**
     - The folder containing the trained model: `/train/weights/best.pt`.
     - Results from model evaluation.
 
-- **yolov8_Clothes.ipynb**
-  - A Jupyter notebook demonstrating how the model is constructed.
-  - Applies logo detection on YouTube videos.
-  - Results are displayed in a dataframe.
+- **`yolov8_Clothes.ipynb`** : A Jupyter notebook demonstrating how the model is constructed, and an applies logo detection on YouTube videos with results in a dataframe.
 
-- **yolov8_model.py**
-  - A Python script to customize the code, such as modifying brands or model parameters.
+- **`yolov8_model.py`** : A Python script to customize the code, such as modifying brands or model parameters.
 
-- **yolov8_example_detection.py**
-  - A Python script with an example application of detection.
+- **`yolov8_example_detection.py`** : A Python script with an example application of detection.
 
-- **yolov8_Clothes_detection.py**
-  - A Python script to apply detection on user-selected YouTube videos.
+- **`yolov8_Clothes_detection.py`** : A Python script to apply detection on user-selected YouTube videos.
 
 ## Model training results
 ![Model training results](https://github.com/leaaumagy/Logo-detection-with-yolov8-on-youtube-videos/blob/main/Yolov8/runs/detect/train/results.png)
@@ -38,7 +32,7 @@ This project uses YOLOv8 for clothing brand logo detection on YouTube videos. ðŸ
 â†’ **mAP50-95:** The model has an accuracy of 79.83% on average, which indicates good performance, on predictions with a wider interval of IoU thresholds (between 0.5 and 0.95).
 
 
-The results of model validation on the /yolov8_Clothes.ipynb file indicate performance on a set of validation images.
+The results of model validation on the `/yolov8_Clothes.ipynb` file indicate performance on a set of validation images.
 
 - Total number of validation images: 648
 - Total number of object instances detected: 801
