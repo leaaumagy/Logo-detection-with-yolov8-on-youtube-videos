@@ -107,6 +107,7 @@ detect_folder_path = "/content/runs/detect"
 
 # Extract video IDs from URLs
 video_ids = [url.split("/")[-1].split("?")[0] for url in video_urls]
+# You can use Youtube API to obtain the name
 
 # Create a DataFrame
 df = pd.DataFrame(index=selected_folders, columns=video_ids)
