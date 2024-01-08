@@ -277,12 +277,6 @@ def convert_xml_to_yolov8(xml_path, output_path):
             class_name = class_name.replace("INOHERB_2", "Isabel_Maran_2")
             class_name = class_name.replace("Harvest_Moon", "Heat_1")
             class_name = class_name.replace("Alcatel_2", "alpinestars_2")
-            class_name = class_name.replace("Alcatel_2", "alpinestars_2")
-            class_name = class_name.replace("Alcatel_2", "alpinestars_2")
-            class_name = class_name.replace("Alcatel_2", "alpinestars_2")
-            class_name = class_name.replace("Alcatel_2", "alpinestars_2")
-            class_name = class_name.replace("Alcatel_2", "alpinestars_2")
-            class_name = class_name.replace("Alcatel_2", "alpinestars_2")
 
             # Use the get method with a default value of -1
             class_id = class_ids.get(class_name, -1)
@@ -345,6 +339,7 @@ model = YOLO("yolov8m.yaml")  # build a new model from scratch
 model = YOLO("yolov8m.pt")  # load a pretrained model (recommended for training)
 
 # Training the yolov8 model with our images
+# You can adapt the number of epoch, but it is necessary to analyse the metrics associate
 !yolo task=detect mode=train model=/content/yolov8m.pt data=/content/Dataset/data.yaml epochs = 30 imgsz = 640
 
 # Model validation
